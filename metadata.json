@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Financial Dashboard",
+  "description": "An interactive dashboard to visualize and analyze financial data from invoices. It includes key performance indicators, charts for monthly sales and client breakdowns, and a filterable, sortable data table.",
+  "requestFramePermissions": []
+}
